@@ -15,6 +15,10 @@ Bu proje Raspberry Pi kullanarak oluşturulmuştur. Depoda devre şeması, resim
 * Akbile bakiye yüklenebilir
 * Akbilden bakiye düşürebilir
 * Akbil basarken LCD ekrana yazılar yazdırabilir
- 
+
+### Nasıl çalıştırılır ###
+
+* sudo python akbil.py -> Akbil yazılımı açarak okunan kartlardan bakiye düşmesi sağlar
+* sudo python yukle.py -> Karta istenilen bakiye kadar yüklemesi sağlar
 
 Sorun olması durumunda ben@onurkinay.com.tr adresinden ulaşabilirsiniz
