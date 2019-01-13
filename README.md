@@ -1,24 +1,23 @@
-# BENİ OKU #
+# READ ME #
+ 
+This project had created with Raspberry Pi. There are pictures, circut sketch and software codes in the repository.
+### Have to be ###
 
-Bu proje Raspberry Pi kullanarak oluşturulmuştur. Depoda devre şeması, resimler ve devrenin yazılımı bulunmaktadır
-
-### Neler gerekli? ###
-
-* RC522 NFC Okuyucu
-* 16x2 LCD Ekran
+* RC522 NFC
+* 16x2 LCD
 * Buzzer
-* İki tane LED lamba
-* Bir sürü kablolar
+* Two LED
+* A lot of wires
 
-### Ne yapar ###
+### What can the project do ###
 
-* Akbile bakiye yüklenebilir
-* Akbilden bakiye düşürebilir
-* Akbil basarken LCD ekrana yazılar yazdırabilir
+* Adding amount
+* Remove amount
+* LCD can write when you use card
 
-### Nasıl çalıştırılır ###
+### How to use ###
 
-* sudo python akbil.py -> Akbil yazılımı açarak okunan kartlardan bakiye düşmesi sağlar
-* sudo python yukle.py -> Karta istenilen bakiye kadar yüklemesi sağlar
+* sudo python akbil.py -> The main software 
+* sudo python yukle.py -> Adding amount to cards
 
-Sorun olması durumunda ben@onurkinay.com.tr adresinden ulaşabilirsiniz
+If there is a problem, you can write an email to me. My e-mail: ben@onurkinay.com.tr
