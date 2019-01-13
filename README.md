@@ -11,8 +11,8 @@ This project had created with Raspberry Pi. There are pictures, circut sketch an
 
 ### What can the project do ###
 
-* Adding amount
-* Remove amount
+* Adding credit
+* Remove credit
 * LCD can write when you use card
 
 ### How to use ###
